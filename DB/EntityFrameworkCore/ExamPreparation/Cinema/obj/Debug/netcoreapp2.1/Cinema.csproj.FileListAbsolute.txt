@@ -1,0 +1,10 @@
+F:\C#\SoftUni_Lectures\Entity_Framework_Core_2019\Exam_Preparation\01. Model Definition _Skeleton + Datasets (1)\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.deps.json
+F:\C#\SoftUni_Lectures\Entity_Framework_Core_2019\Exam_Preparation\01. Model Definition _Skeleton + Datasets (1)\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.json
+F:\C#\SoftUni_Lectures\Entity_Framework_Core_2019\Exam_Preparation\01. Model Definition _Skeleton + Datasets (1)\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.dev.json
+F:\C#\SoftUni_Lectures\Entity_Framework_Core_2019\Exam_Preparation\01. Model Definition _Skeleton + Datasets (1)\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.dll
+F:\C#\SoftUni_Lectures\Entity_Framework_Core_2019\Exam_Preparation\01. Model Definition _Skeleton + Datasets (1)\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.pdb
+F:\C#\SoftUni_Lectures\Entity_Framework_Core_2019\Exam_Preparation\01. Model Definition _Skeleton + Datasets (1)\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.csprojAssemblyReference.cache
+F:\C#\SoftUni_Lectures\Entity_Framework_Core_2019\Exam_Preparation\01. Model Definition _Skeleton + Datasets (1)\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfoInputs.cache
+F:\C#\SoftUni_Lectures\Entity_Framework_Core_2019\Exam_Preparation\01. Model Definition _Skeleton + Datasets (1)\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfo.cs
+F:\C#\SoftUni_Lectures\Entity_Framework_Core_2019\Exam_Preparation\01. Model Definition _Skeleton + Datasets (1)\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.dll
+F:\C#\SoftUni_Lectures\Entity_Framework_Core_2019\Exam_Preparation\01. Model Definition _Skeleton + Datasets (1)\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.pdb
