@@ -1,2 +1,2 @@
-# Csharp-Exercises
-SoftUni C# assignments
+# SoftUni C# assignments
+
