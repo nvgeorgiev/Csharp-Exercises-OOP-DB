@@ -1,0 +1,11 @@
+F:\C#\Projects-C#\SoftUni\WEB\Workshop-PetStore\PetStore\Data\PetStore.Data\bin\Debug\netstandard2.0\PetStore.Data.deps.json
+F:\C#\Projects-C#\SoftUni\WEB\Workshop-PetStore\PetStore\Data\PetStore.Data\bin\Debug\netstandard2.0\PetStore.Data.dll
+F:\C#\Projects-C#\SoftUni\WEB\Workshop-PetStore\PetStore\Data\PetStore.Data\bin\Debug\netstandard2.0\PetStore.Data.pdb
+F:\C#\Projects-C#\SoftUni\WEB\Workshop-PetStore\PetStore\Data\PetStore.Data\bin\Debug\netstandard2.0\PetStore.Data.Models.dll
+F:\C#\Projects-C#\SoftUni\WEB\Workshop-PetStore\PetStore\Data\PetStore.Data\bin\Debug\netstandard2.0\PetStore.Data.Models.pdb
+F:\C#\Projects-C#\SoftUni\WEB\Workshop-PetStore\PetStore\Data\PetStore.Data\obj\Debug\netstandard2.0\PetStore.Data.csprojAssemblyReference.cache
+F:\C#\Projects-C#\SoftUni\WEB\Workshop-PetStore\PetStore\Data\PetStore.Data\obj\Debug\netstandard2.0\PetStore.Data.AssemblyInfoInputs.cache
+F:\C#\Projects-C#\SoftUni\WEB\Workshop-PetStore\PetStore\Data\PetStore.Data\obj\Debug\netstandard2.0\PetStore.Data.AssemblyInfo.cs
+F:\C#\Projects-C#\SoftUni\WEB\Workshop-PetStore\PetStore\Data\PetStore.Data\obj\Debug\netstandard2.0\PetStore.Data.csproj.CopyComplete
+F:\C#\Projects-C#\SoftUni\WEB\Workshop-PetStore\PetStore\Data\PetStore.Data\obj\Debug\netstandard2.0\PetStore.Data.dll
+F:\C#\Projects-C#\SoftUni\WEB\Workshop-PetStore\PetStore\Data\PetStore.Data\obj\Debug\netstandard2.0\PetStore.Data.pdb

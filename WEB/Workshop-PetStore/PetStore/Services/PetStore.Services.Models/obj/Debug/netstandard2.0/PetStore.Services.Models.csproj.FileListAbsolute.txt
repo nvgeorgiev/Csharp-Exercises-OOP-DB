@@ -1,0 +1,8 @@
+F:\C#\Projects-C#\SoftUni\WEB\Workshop-PetStore\PetStore\Services\PetStore.Services.Models\bin\Debug\netstandard2.0\PetStore.Services.Models.deps.json
+F:\C#\Projects-C#\SoftUni\WEB\Workshop-PetStore\PetStore\Services\PetStore.Services.Models\bin\Debug\netstandard2.0\PetStore.Services.Models.dll
+F:\C#\Projects-C#\SoftUni\WEB\Workshop-PetStore\PetStore\Services\PetStore.Services.Models\bin\Debug\netstandard2.0\PetStore.Services.Models.pdb
+F:\C#\Projects-C#\SoftUni\WEB\Workshop-PetStore\PetStore\Services\PetStore.Services.Models\obj\Debug\netstandard2.0\PetStore.Services.Models.csprojAssemblyReference.cache
+F:\C#\Projects-C#\SoftUni\WEB\Workshop-PetStore\PetStore\Services\PetStore.Services.Models\obj\Debug\netstandard2.0\PetStore.Services.Models.AssemblyInfoInputs.cache
+F:\C#\Projects-C#\SoftUni\WEB\Workshop-PetStore\PetStore\Services\PetStore.Services.Models\obj\Debug\netstandard2.0\PetStore.Services.Models.AssemblyInfo.cs
+F:\C#\Projects-C#\SoftUni\WEB\Workshop-PetStore\PetStore\Services\PetStore.Services.Models\obj\Debug\netstandard2.0\PetStore.Services.Models.dll
+F:\C#\Projects-C#\SoftUni\WEB\Workshop-PetStore\PetStore\Services\PetStore.Services.Models\obj\Debug\netstandard2.0\PetStore.Services.Models.pdb
