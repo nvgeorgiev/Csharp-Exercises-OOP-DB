@@ -3239,11 +3239,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#\\Projects-C#\\SoftUni\\WEB\\Workshop-PetStore\\PetStore\\Data\\PetStore.Data\\PetStore.Data.csproj",
+      "projectUniqueName": "F:\\C#\\Projects-C#\\SoftUni\\Csharp-Exercises-OOP-DB-WEB\\WEB\\Workshop-PetStore\\PetStore\\Data\\PetStore.Data\\PetStore.Data.csproj",
       "projectName": "PetStore.Data",
-      "projectPath": "F:\\C#\\Projects-C#\\SoftUni\\WEB\\Workshop-PetStore\\PetStore\\Data\\PetStore.Data\\PetStore.Data.csproj",
+      "projectPath": "F:\\C#\\Projects-C#\\SoftUni\\Csharp-Exercises-OOP-DB-WEB\\WEB\\Workshop-PetStore\\PetStore\\Data\\PetStore.Data\\PetStore.Data.csproj",
       "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
-      "outputPath": "F:\\C#\\Projects-C#\\SoftUni\\WEB\\Workshop-PetStore\\PetStore\\Data\\PetStore.Data\\obj\\",
+      "outputPath": "F:\\C#\\Projects-C#\\SoftUni\\Csharp-Exercises-OOP-DB-WEB\\WEB\\Workshop-PetStore\\PetStore\\Data\\PetStore.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -3264,8 +3264,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "F:\\C#\\Projects-C#\\SoftUni\\WEB\\Workshop-PetStore\\PetStore\\Data\\PetStore.Data.Models\\PetStore.Data.Models.csproj": {
-              "projectPath": "F:\\C#\\Projects-C#\\SoftUni\\WEB\\Workshop-PetStore\\PetStore\\Data\\PetStore.Data.Models\\PetStore.Data.Models.csproj"
+            "F:\\C#\\Projects-C#\\SoftUni\\Csharp-Exercises-OOP-DB-WEB\\WEB\\Workshop-PetStore\\PetStore\\Data\\PetStore.Data.Models\\PetStore.Data.Models.csproj": {
+              "projectPath": "F:\\C#\\Projects-C#\\SoftUni\\Csharp-Exercises-OOP-DB-WEB\\WEB\\Workshop-PetStore\\PetStore\\Data\\PetStore.Data.Models\\PetStore.Data.Models.csproj"
             }
           }
         }

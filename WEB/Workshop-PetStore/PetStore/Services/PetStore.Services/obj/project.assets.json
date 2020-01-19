@@ -783,6 +783,9 @@
       "PetStore.Services.Models/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "PetStore.Data.Models": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/PetStore.Services.Models.dll": {}
         },
@@ -3130,11 +3133,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#\\Projects-C#\\SoftUni\\WEB\\Workshop-PetStore\\PetStore\\Services\\PetStore.Services\\PetStore.Services.csproj",
+      "projectUniqueName": "F:\\C#\\Projects-C#\\SoftUni\\Csharp-Exercises-OOP-DB-WEB\\WEB\\Workshop-PetStore\\PetStore\\Services\\PetStore.Services\\PetStore.Services.csproj",
       "projectName": "PetStore.Services",
-      "projectPath": "F:\\C#\\Projects-C#\\SoftUni\\WEB\\Workshop-PetStore\\PetStore\\Services\\PetStore.Services\\PetStore.Services.csproj",
+      "projectPath": "F:\\C#\\Projects-C#\\SoftUni\\Csharp-Exercises-OOP-DB-WEB\\WEB\\Workshop-PetStore\\PetStore\\Services\\PetStore.Services\\PetStore.Services.csproj",
       "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
-      "outputPath": "F:\\C#\\Projects-C#\\SoftUni\\WEB\\Workshop-PetStore\\PetStore\\Services\\PetStore.Services\\obj\\",
+      "outputPath": "F:\\C#\\Projects-C#\\SoftUni\\Csharp-Exercises-OOP-DB-WEB\\WEB\\Workshop-PetStore\\PetStore\\Services\\PetStore.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -3155,14 +3158,14 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "F:\\C#\\Projects-C#\\SoftUni\\WEB\\Workshop-PetStore\\PetStore\\Data\\PetStore.Data.Models\\PetStore.Data.Models.csproj": {
-              "projectPath": "F:\\C#\\Projects-C#\\SoftUni\\WEB\\Workshop-PetStore\\PetStore\\Data\\PetStore.Data.Models\\PetStore.Data.Models.csproj"
+            "F:\\C#\\Projects-C#\\SoftUni\\Csharp-Exercises-OOP-DB-WEB\\WEB\\Workshop-PetStore\\PetStore\\Data\\PetStore.Data.Models\\PetStore.Data.Models.csproj": {
+              "projectPath": "F:\\C#\\Projects-C#\\SoftUni\\Csharp-Exercises-OOP-DB-WEB\\WEB\\Workshop-PetStore\\PetStore\\Data\\PetStore.Data.Models\\PetStore.Data.Models.csproj"
             },
-            "F:\\C#\\Projects-C#\\SoftUni\\WEB\\Workshop-PetStore\\PetStore\\Data\\PetStore.Data\\PetStore.Data.csproj": {
-              "projectPath": "F:\\C#\\Projects-C#\\SoftUni\\WEB\\Workshop-PetStore\\PetStore\\Data\\PetStore.Data\\PetStore.Data.csproj"
+            "F:\\C#\\Projects-C#\\SoftUni\\Csharp-Exercises-OOP-DB-WEB\\WEB\\Workshop-PetStore\\PetStore\\Data\\PetStore.Data\\PetStore.Data.csproj": {
+              "projectPath": "F:\\C#\\Projects-C#\\SoftUni\\Csharp-Exercises-OOP-DB-WEB\\WEB\\Workshop-PetStore\\PetStore\\Data\\PetStore.Data\\PetStore.Data.csproj"
             },
-            "F:\\C#\\Projects-C#\\SoftUni\\WEB\\Workshop-PetStore\\PetStore\\Services\\PetStore.Services.Models\\PetStore.Services.Models.csproj": {
-              "projectPath": "F:\\C#\\Projects-C#\\SoftUni\\WEB\\Workshop-PetStore\\PetStore\\Services\\PetStore.Services.Models\\PetStore.Services.Models.csproj"
+            "F:\\C#\\Projects-C#\\SoftUni\\Csharp-Exercises-OOP-DB-WEB\\WEB\\Workshop-PetStore\\PetStore\\Services\\PetStore.Services.Models\\PetStore.Services.Models.csproj": {
+              "projectPath": "F:\\C#\\Projects-C#\\SoftUni\\Csharp-Exercises-OOP-DB-WEB\\WEB\\Workshop-PetStore\\PetStore\\Services\\PetStore.Services.Models\\PetStore.Services.Models.csproj"
             }
           }
         }

@@ -3076,11 +3076,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#\\Projects-C#\\SoftUni\\WEB\\Workshop-PetStore\\PetStore\\Data\\PetStore.Data.Models\\PetStore.Data.Models.csproj",
+      "projectUniqueName": "F:\\C#\\Projects-C#\\SoftUni\\Csharp-Exercises-OOP-DB-WEB\\WEB\\Workshop-PetStore\\PetStore\\Data\\PetStore.Data.Models\\PetStore.Data.Models.csproj",
       "projectName": "PetStore.Data.Models",
-      "projectPath": "F:\\C#\\Projects-C#\\SoftUni\\WEB\\Workshop-PetStore\\PetStore\\Data\\PetStore.Data.Models\\PetStore.Data.Models.csproj",
+      "projectPath": "F:\\C#\\Projects-C#\\SoftUni\\Csharp-Exercises-OOP-DB-WEB\\WEB\\Workshop-PetStore\\PetStore\\Data\\PetStore.Data.Models\\PetStore.Data.Models.csproj",
       "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
-      "outputPath": "F:\\C#\\Projects-C#\\SoftUni\\WEB\\Workshop-PetStore\\PetStore\\Data\\PetStore.Data.Models\\obj\\",
+      "outputPath": "F:\\C#\\Projects-C#\\SoftUni\\Csharp-Exercises-OOP-DB-WEB\\WEB\\Workshop-PetStore\\PetStore\\Data\\PetStore.Data.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
