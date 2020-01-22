@@ -1,2 +1,4 @@
-# C# OOP and DB assignments @ SoftUni
+# Csharp-Exercises-OOP-DB
+
+C# OOP and DB assignments @ SoftUni
 
