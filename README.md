@@ -1,2 +1,2 @@
-# SoftUni C# assignments
+# C# OOP and DB assignments @ SoftUni
 
